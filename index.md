@@ -16,12 +16,12 @@ layout: default
 			<p>Get info or download data for your species of interest.</p>
 		</article>
 		<article>
-			<a href="blast.caenorhabditis.org" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="http://blast.caenorhabditis.org" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
 			<h3>BLAST server</h3>
 			<p>Search the genome or proteome using our web-based BLAST server.</p>
 		</article>
 		<article>
-			<a href="download.caenorhabditis.org" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="http://download.caenorhabditis.org" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
 			<h3>Download server</h3>
 			<p>Download any of our data.</p>
 		</article>
