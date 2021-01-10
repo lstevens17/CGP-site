@@ -13,38 +13,27 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Species pages</h3>
-			<p>Get info or data for your species of interest.</p>
+			<p>Get info or download data for your species of interest.</p>
+		</article>
+		<article>
+			<a href="blast.caenorhabditis.org" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<h3>BLAST server</h3>
+			<p>Search the genome or proteome using our web-based BLAST server.</p>
+		</article>
+		<article>
+			<a href="download.caenorhabditis.org" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<h3>Download server</h3>
+			<p>Download any of our data.</p>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-			<h3>Tempus ullamcorper</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
+			<h3>The <i>Caenorhabditis</i> phylogeny</h3>
+			<p>The latest phylogeny of the genus.</p>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-			<h3>Sed etiam facilis</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
-			<h3>Feugiat lorem aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
-			<h3>Amet varius aliquam</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+			<a href="caenorhabditis.org" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<h3>Old site</h3>
+			<p>Access the previous version of our site.</p>
 			</ul>
 		</article>
 	</div>
