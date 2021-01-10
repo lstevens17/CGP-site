@@ -3,9 +3,7 @@ layout: default
 ---
 <!-- Section -->
 <section>
-	<header class="major">
-		<p>We have sequenced all the worms. Find their genomes here.</p>
-	</header>
+	<p>We have sequenced all the worms. Find their genomes here.</p>
 	<div class="posts">
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
